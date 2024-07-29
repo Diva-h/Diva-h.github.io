@@ -1,0 +1,12 @@
+---
+title: "Contact Information"
+editor: visual
+---
+
+Ani Hovhannisyan
+
+[anihovhannisyan303\@gmail.com](mailto:anihovhannisyan303@gmail.com)
+
+The best way to contact me is at the email address above or through my [LinkedIn profile](https://www.linkedin.com/in/ani-hovhannisyan-00369819b/), which I regularly update and check.<br>
+
+**I am open to new job opportunities to gain more practice in the data science and machine learning.**

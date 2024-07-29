@@ -1,0 +1,29 @@
+---
+title: Ani Hovhannisyan
+image: img/profile.png
+page-layout: full
+about:
+  template: trestles
+  image-width: 20em
+  image-shape: round
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/Diva-h
+    - icon: email
+      text: Email
+      href: mailto:anihovhannisyan303@gmail.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ani-hovhannisyan-00369819b/
+---
+
+Hello! My name is Ani Hovhannisyan, and I am a Registration Manager at [TUMO Berlin, Accenture GmbH](https://berlin.tumo.de/). I coordinate and manage the entire registration process, ensuring efficient data entry, processing, and tracking through advanced Excel-based systems. My role also involves maintaining data quality through regular validation and providing customer support throughout the registration process.
+
+I hold a Bachelor's degree in International Business Administration with specializations in [Information & Operation Management](https://www.wiwi.europa-uni.de/de/studium/neue-studienangebote/ibwl-bachelor/schwerpunktbildung/information-operations-management/index.html), [Finance](https://www.wiwi.europa-uni.de/de/studium/neue-studienangebote/ibwl-bachelor/schwerpunktbildung/finance/index.html), and [European Economics](https://www.wiwi.europa-uni.de/de/studium/neue-studienangebote/ibwl-bachelor/schwerpunktbildung/european-economics/index.html) from the Europa-Universität Viadrina in Frankfurt (Oder), Germany. I am currently pursuing my Master's degree in International Business Administration with a focus on [Data Science & Decision Support (DSDS)](https://www.wiwi.europa-uni.de/de/studium/studienangebot/master-iba/index.html) at the same university.
+
+Previously, I gained valuable experience as a coach at TUMO Berlin, where I mentored students in various digital disciplines such as programming, robotics, and graphic design. Additionally, I have practical experience in data management and analysis using TUMO Data Studio, and have contributed to the organization and management of special projects and events.
+
+I also have international experience from my Erasmus exchange at [NEOMA Business School](https://neoma-bs.com/) in Reims, France, where I attended the corses: Data Analysis and Business Intelligence, Project Management and Globalization & Innovation.
+
+You can find more information about my volunteer activities and Awards, on my [Voluntary engagement & Awards](activities.qmd) page. For any inquiries, feel free to reach out to me via my [contact information](contact.qmd).

@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Ani Hovhannisyan"
+  navbar:
+    right:
+      - href: index.qmd
+        text: About
+      - href: activities.qmd
+        text: Activities
+      - href: contact.qmd
+        text: Contact
+
+format:
+  html:
+    theme: cosmo dark
+    css: styles.css
+    toc: true
+
+editor: visual
